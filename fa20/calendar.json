@@ -1,0 +1,263 @@
+[
+    {
+        "date": "Tue, Sep 1",
+        "title": "Lecture 1: Demand",
+        "materials": [
+            {
+                "title": "Slides",
+                "url": "https://docs.google.com/presentation/d/1_dWlaHEILZMHLLVlEEQtg8AmOCJftr2ux9Lyf_cLQbk/edit?usp=sharing"
+            },
+            {
+                "title": "Demand Curve",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fd8a-88%2Fecon-fa20&urlpath=tree%2Fecon-fa20%2Flec%2Flec01%2Fdemand-curve.ipynb&branch=master"
+            },
+            {
+                "title": "Lab 1",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fd8a-88%2Fecon-fa20&urlpath=tree%2Fecon-fa20%2Flab%2Flab01%2Flab01.ipynb&branch=master"
+            }
+        ],
+        "assignment": null
+    },
+    {
+        "date": "Tue, Sep 8",
+        "title": "Lecture 2: Supply",
+        "materials": [
+            {
+                "title": "Slides",
+                "url": "https://docs.google.com/presentation/d/1VZGnhQZARlw14IEqw-d1laBlNHnT23-2KIGKCz8shto/edit?usp=sharing"
+            },
+            {
+                "title": "Lecture 2 Notebook",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fd8a-88%2Fecon-fa20&urlpath=tree%2Fecon-fa20%2Flec%2Flec02%2Flec02.ipynb&branch=master"
+            },
+            {
+                "title": "Lab 2",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fd8a-88%2Fecon-fa20&urlpath=tree%2Fecon-fa20%2Flab%2Flab02%2Flab02.ipynb&branch=master"
+            }
+        ],
+        "assignment": {
+            "title": "Project 1",
+            "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fd8a-88%2Fecon-fa20&urlpath=tree%2Fecon-fa20%2Fproj%2Fproj01%2Fproj01.ipynb&branch=master",
+            "dueDate": "Sep 21"
+        }
+    },
+    {
+        "date": "Tue, Sep 15",
+        "title": "Lecture 3: Government Intervention",
+        "materials": [
+            {
+                "title": "Slides",
+                "url": "https://docs.google.com/presentation/d/1l0TKQBN10lTXEbQFPMCiURsSqwI8oL3c5h02algFxgc/edit?usp=sharing"
+            },
+            {
+                "title": "Lab 3",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fd8a-88%2Fecon-fa20&urlpath=tree%2Fecon-fa20%2Flab%2Flab03%2Flab03.ipynb&branch=master"
+            }
+        ],
+        "assignment": null
+    },
+    {
+        "date": "Tue, Sep 22",
+        "title": "Lecture 4: Production",
+        "materials": [
+            {
+                "title": "Slides",
+                "url": "https://docs.google.com/presentation/d/1NLjjte0ihA6wx5CfBLdUKOdd-m7s4pe86279MhQmwAQ/edit?usp=sharing"
+            },
+            {
+                "title": "Annotated Slides",
+                "url": "assets/lec04-annotated.pdf"
+            },
+            {
+                "title": "Lab 4",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fd8a-88%2Fecon-fa20&urlpath=tree%2Fecon-fa20%2Flab%2Flab04%2Flab04.ipynb&branch=master"
+            }
+        ],
+        "assignment": {
+            "title": "Project 2",
+            "dueDate": "Oct 5",
+            "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fd8a-88%2Fecon-fa20&urlpath=tree%2Fecon-fa20%2Fproj%2Fproj02%2Fproj02.ipynb&branch=master"
+        }
+    },
+    {
+        "date": "Tue Sep 29",
+        "title": "Lecture 5: Utility",
+        "materials": [
+            {
+                "title": "Slides",
+                "url": "https://docs.google.com/presentation/d/1JadWGEq4eBV02j8Y5PJ2zLOx_VXpuB9O-U5lFw8LGIo/edit?usp=sharing"
+            },
+            {
+                "title": "Lab 5 Assignment",
+                "url": "assets/lab05-assignment.pdf"
+            },
+            {
+                "title": "Lab 5 TeX",
+                "url": "https://raw.githubusercontent.com/d8a-88/econ-fa20/master/lab/lab05/lab05_template.tex"
+            }
+        ],
+        "assignment": null
+    },
+    {
+        "date": "Tue, Oct 6",
+        "title": "Lecture 6: Development",
+        "materials": [
+            {
+                "title": "Slides",
+                "url": "https://docs.google.com/presentation/d/1ocP5zCKxD1gYJBfqYYQZlcO2S3x95B8s_FR3TfUS9lo/edit?usp=sharing"
+            },
+            {
+                "title": "Lab 6",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fd8a-88%2Fecon-fa20&urlpath=tree%2Fecon-fa20%2Flab%2Flab06%2Flab06.ipynb&branch=master"
+            }
+        ],
+        "assignment": {
+            "title": "Test 1",
+            "dueDate": "Oct 9",
+            "bold": true
+        }
+    },
+    {
+        "date": "Tue, Oct 13",
+        "title": "Lecture 7: Game Theory",
+        "materials": [
+            {
+                "title": "Slides",
+                "url": "https://docs.google.com/presentation/d/1VZCr-mEynBwDptg4vBIZa_2-KiPY1ULZgU5EWR5U6ms/edit?usp=sharing"
+            },
+            {
+                "title": "Annotated Slides",
+                "url": "assets/lec07-annotated.pdf"
+            },
+            {
+                "title": "Lecture 7 Notebook",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fd8a-88%2Fecon-fa20&urlpath=tree%2Fecon-fa20%2Flec%2Flec07%2Flec07.ipynb&branch=master"
+            },
+            {
+                "title": "Lab 7",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fd8a-88%2Fecon-fa20&urlpath=tree%2Fecon-fa20%2Flab%2Flab07%2Flab07.ipynb&branch=master"
+            }
+        ],
+        "assignment": {
+            "title": "Project 3",
+            "dueDate": "Oct 26",
+            "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fd8a-88%2Fecon-fa20&urlpath=tree%2Fecon-fa20%2Fproj%2Fproj03%2Fproj03.ipynb&branch=master"
+        }
+    },
+    {
+        "date": "Tue, Oct 20",
+        "title": "Lecture 8: Inequality",
+        "materials": [
+            {
+                "title": "Slides",
+                "url": "https://docs.google.com/presentation/d/1xONobcpe82al_a4K8JDgB9TcXlSoqmwxFnR9u2chwIo/edit?usp=sharing"
+            },
+            {
+                "title": "Lab 8",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fd8a-88%2Fecon-fa20&urlpath=tree%2Fecon-fa20%2Flab%2Flab08%2Flab08.ipynb&branch=master"
+            }
+        ],
+        "assignment": null
+    },
+    {
+        "date": "Tue, Oct 27",
+        "title": "Lecture 9: Behavioral Economics",
+        "materials": [
+            {
+                "title": "Slides",
+                "url": "assets/lec09-slides.pdf"
+            }
+        ],
+        "assignment": {
+            "title": "Project 4",
+            "dueDate": "Nov 12",
+            "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fd8a-88%2Fecon-fa20&urlpath=tree%2Fecon-fa20%2Fproj%2Fproj04%2Fproj04.ipynb&branch=master"
+        }
+    }, 
+    {
+        "date": "Tue, Nov 3",
+        "title": "Lecture 10: Finance",
+        "materials": [
+            {
+                "title": "Lab 9",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fd8a-88%2Fecon-fa20&urlpath=tree%2Fecon-fa20%2Flab%2Flab09%2Flab09.ipynb&branch=master"
+            }
+        ],
+        "assignment": null
+    },
+    {
+        "date": "Tue, Nov 10",
+        "title": "Lecture 11: Econometrics",
+        "materials": [
+            {
+                "title": "Lecture 11 Notebook",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fd8a-88%2Fecon-fa20&urlpath=tree%2Fecon-fa20%2Flec%2Flec11%2Flec11.ipynb&branch=master"
+            },
+            {
+                "title": "Lab 10",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fd8a-88%2Fecon-fa20&urlpath=tree%2Fecon-fa20%2Flab%2Flab10%2Flab10.ipynb&branch=master"
+            }
+        ],
+        "assignment": {
+            "title": "Project 5",
+            "dueDate": "Nov 30",
+            "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fd8a-88%2Fecon-fa20&urlpath=tree%2Fecon-fa20%2Fproj%2Fproj05%2Fproj05.ipynb&branch=master"
+        }
+    },
+    {
+        "date": "Tue, Nov 17",
+        "title": "Lecture 12: Macroeconomic Policy",
+        "materials": [
+            {
+                "title": "Slides",
+                "url": "https://docs.google.com/presentation/d/1hmDmkiyHnLCCXS7TYkNtJMfAoQE_Oca5h45uVY2VMQ0/edit?usp=sharing"
+            },
+            {
+                "title": "Annotated Slides",
+                "url": "assets/lec12-annotated.pdf"
+            },
+            {
+                "title": "Lab 11",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fd8a-88%2Fecon-fa20&urlpath=tree%2Fecon-fa20%2Flab%2Flab11%2Flab11.ipynb&branch=master"
+            }
+        ],
+        "assignment": null
+    },
+    {
+        "date": "Tue, Nov 24",
+        "title": "NO CLASS: Thanksgiving Break",
+        "materials": [],
+        "assignment": null
+    },
+    {
+        "date": "Tue, Dec 1",
+        "title": "Lecture 13: Guest Lecture",
+        "materials": [
+            {
+                "title": "Evolving Correlations",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fd8a-88%2Fecon-fa20&urlpath=tree%2Fecon-fa20%2Flec%2Flec13%2Fevolving-correlations.ipynb&branch=master"
+            },
+            {
+                "title": "Spotify Data",
+                "url": "https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fd8a-88%2Fecon-fa20&urlpath=tree%2Fecon-fa20%2Flec%2Flec13%2Fanalyze_spotify_data.ipynb&branch=master"
+            }
+        ],
+        "assignment": {
+            "title": "Test 2",
+            "dueDate": "Dec 4",
+            "bold": true
+        }
+    },
+    {
+        "date": "Tue, Dec 8",
+        "title": "RRR Week",
+        "materials": [],
+        "assignment": null
+    },
+    {
+        "date": "Tue, Dec 15",
+        "title": "Finals",
+        "materials": [],
+        "assignment": null
+    }
+]
